@@ -9,6 +9,7 @@ A Simple coid cases and fatalities tracker app and display information in graphs
 ## Tech Stack Used
 
 React.JS (featuring useSate, useEffects Hooks, Fetch API Data)
+
 React-Chart-js-2 (React Chart.js to show information using Line and Bar Graphs)
 
 CSS
