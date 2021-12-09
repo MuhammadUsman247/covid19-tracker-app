@@ -12,6 +12,8 @@ React.JS (featuring useSate, useEffects Hooks, Fetch API Data)
 
 React-Chart-js-2 (React Chart.js to show information using Line and Bar Graphs)
 
+Material UI
+
 CSS
 
 HTML
@@ -26,7 +28,7 @@ Surge Deployment via Github Actions
 
 Repo: https://github.com/MuhammadUsman247/covid19-tracker-app
 
-Demo: https://prj02-covid19-tracker-app.surge.sh
+Demo: 
 
 
 ## Release History
