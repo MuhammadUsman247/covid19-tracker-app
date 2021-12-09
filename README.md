@@ -28,7 +28,7 @@ Surge Deployment via Github Actions
 
 Repo: https://github.com/MuhammadUsman247/covid19-tracker-app
 
-Demo: 
+Demo: https://prj02-covid19-tracker-app.surge.sh
 
 
 ## Release History
